@@ -69,4 +69,6 @@
            1231231231312312312313
            1231231231312312312313
     </string>
+    <string name="name_hint">what is your nickname</string>
+    <string name="done_btn">Done</string>
 </resources>
