@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Lesson2</string>
+    <string name="name">Mikhail</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio_text">
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/some_long_text"android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/some_long_text"android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/some_long_text"android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/some_long_text"android:layout_width="match_parent"
+       android:layout_height="wrap_content"   android:layout_height="wrap_content"
+       android:orientation="vertical">
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/some_long_text"android:layout_width="match_parent"
+       android:layout_height="wrap_content"   android:layout_height="wrap_content"
+       android:orientation="vertical">
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/some_long_text"android:layout_width="match_parent"
+       android:layout_height="wrap_content"   android:layout_height="wrap_content"
+       android:orientation="vertical">
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/some_long_text"android:layout_width="match_parent"
+       android:layout_height="wrap_content"   android:layout_height="wrap_content"
+       android:orientation="vertical">
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/some_long_text"android:layout_width="match_parent"
+       android:layout_height="wrap_content"   android:layout_height="wrap_content"
+       android:orientation="vertical">
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/some_long_text"android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/some_long_text"android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/some_long_text"android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+           android:layout_width="match_parent"
+           1231231231312312312313
+           1231231231312312312313
+    </string>
+</resources>
